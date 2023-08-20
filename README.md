@@ -1,4 +1,4 @@
-# 💰 Shark Tank Masai 🦈
+# 💰 Shark Tank 🦈
 ### JS-VITE-WITH-MOCK-SERVER
 
 Please do NOT use VSCode live-server. It will not work. Use the npm commands suggested to you here.
